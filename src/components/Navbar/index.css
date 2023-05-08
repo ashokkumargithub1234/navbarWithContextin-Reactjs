@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.dark-theme {
+  background-color: #333333;
+}
+.light-theme {
+  background-color: #ffffff;
+}
+.navbar {
+  border: 1px solid #dcdcdc;
+  border-radius: 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 8vh;
+  padding: 5px;
+}
+.website-logo {
+  height: 25px;
+  width: 40px;
+}
+.navigate-paths {
+  display: flex;
+  align-items: center;
+  padding-left: 0;
+}
+.list {
+  list-style-type: none;
+}
+.text {
+  text-decoration: none;
+  margin: 10px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.text-light {
+  color: #334155;
+}
+.text-dark {
+  color: #ffffff;
+}
+.theme-logo {
+  height: 25px;
+  width: 30px;
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 5px;
+}

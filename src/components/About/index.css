@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.dark {
+  background-color: #000000;
+}
+.light {
+  background-color: #ffffff;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+}
